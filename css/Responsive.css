@@ -1,0 +1,735 @@
+@media(max-width: 768px) {
+    .navbar-toggler {
+        background: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: 0px;
+    }
+
+    .left_part {
+        text-align: center;
+    }
+
+    #banner .left_part h1 {
+        font-size: 44px;
+        line-height: 72px;
+    }
+
+    .banner_btn {
+        flex-direction: column;
+        margin-bottom: 15px;
+    }
+
+    .banner_btn button {
+        margin-bottom: 15px;
+    }
+
+    #banner .right_part img {
+        margin-top: 46px;
+    }
+
+    #counter .counter_items {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 20px;
+        text-align: center;
+    }
+
+    #counter .counter_items h2 {
+        font-size: 36px;
+    }
+
+    #counter .counter_items p {
+        font-size: 16px;
+    }
+
+    #counter {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    #SERVICES {
+        padding-top: 100px;
+    }
+
+    #SERVICES h2 {
+        font-size: 34px !important;
+        line-height: 40px;
+    }
+
+    #SERVICES p {
+        padding: 0 22px !important;
+    }
+
+    .services-item {
+        margin-bottom: 52px;
+    }
+
+    #ABOUT .right_part img {
+        margin-top: 20px;
+    }
+
+    .select_box_item_contant h5 {
+        text-align: center;
+        line-height: 22px;
+    }
+
+    #select_work p {
+        text-align: center;
+    }
+
+    #testmonial h2 {
+        font-size: 34px !important;
+    }
+
+    #testmonial p {
+        padding: 0 12px !important;
+    }
+
+    #testmonial .testmonial_box .testmonial_box_p h6 {
+        width: 322px !important;
+    }
+
+    #Intarested .Intarested_wrapper h3 {
+        margin: 0 !important;
+        padding-top: 120px;
+        padding-bottom: 42px;
+        text-align: center;
+        font-size: 43px !important;
+        line-height: 62px;
+    }
+
+    .footer_left p {
+        padding-bottom: 20px !important;
+    }
+
+    .footer_nav ul {
+        display: flex;
+        gap: 20px !important;
+        padding-left: 3px !important;
+        margin-top: 32px;
+    }
+
+    .footer_p_para p {
+        padding-left: 4px !important;
+    }
+}
+
+@media(max-width: 576px) {
+    .navbar-toggler {
+        background: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: 0px;
+    }
+
+    .left_part {
+        text-align: center;
+    }
+
+    #banner .left_part h1 {
+        font-size: 44px;
+        line-height: 72px;
+    }
+
+    .banner_btn {
+        flex-direction: column;
+        margin-bottom: 15px;
+    }
+
+    .banner_btn button {
+        margin-bottom: 15px;
+    }
+
+    #banner .right_part img {
+        margin-top: 46px;
+    }
+
+    #counter .counter_items {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 20px;
+        text-align: center;
+    }
+
+    #counter .counter_items h2 {
+        font-size: 36px;
+    }
+
+    #counter .counter_items p {
+        font-size: 16px;
+    }
+
+    #counter {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    #SERVICES {
+        padding-top: 100px;
+    }
+
+    #SERVICES h2 {
+        font-size: 34px !important;
+        line-height: 40px;
+    }
+
+    #SERVICES p {
+        padding: 0 22px !important;
+    }
+
+    .services-item {
+        margin-bottom: 52px;
+    }
+
+    #ABOUT .right_part img {
+        margin-top: 20px;
+    }
+
+    .select_box_item_contant h5 {
+        text-align: center;
+        line-height: 22px;
+    }
+
+    #select_work p {
+        text-align: center;
+    }
+
+    #testmonial h2 {
+        font-size: 34px !important;
+    }
+
+    #testmonial p {
+        padding: 0 12px !important;
+    }
+
+    #testmonial .testmonial_box .testmonial_box_p h6 {
+        width: 322px !important;
+    }
+
+    #Intarested .Intarested_wrapper h3 {
+        margin: 0 !important;
+        padding-top: 120px;
+        padding-bottom: 42px;
+        text-align: center;
+        font-size: 43px !important;
+        line-height: 62px;
+    }
+
+    .footer_left p {
+        padding-bottom: 20px !important;
+    }
+
+    .footer_nav ul {
+        display: flex;
+        gap: 20px !important;
+        padding-left: 3px !important;
+        margin-top: 32px;
+    }
+
+    .footer_p_para p {
+        padding-left: 4px !important;
+    }
+}
+
+@media(max-width: 557.99px) {
+    .navbar-toggler {
+        background: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: 0px;
+    }
+
+    .left_part {
+        text-align: center;
+    }
+
+    #banner .left_part h1 {
+        font-size: 44px;
+        line-height: 72px;
+    }
+
+    .banner_btn {
+        flex-direction: column;
+        margin-bottom: 15px;
+    }
+
+    .banner_btn button {
+        margin-bottom: 15px;
+    }
+
+    #banner .right_part img {
+        margin-top: 46px;
+    }
+
+    #counter .counter_items {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 20px;
+        text-align: center;
+    }
+
+    #counter .counter_items h2 {
+        font-size: 36px;
+    }
+
+    #counter .counter_items p {
+        font-size: 16px;
+    }
+
+    #counter {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    #SERVICES {
+        padding-top: 100px;
+    }
+
+    #SERVICES h2 {
+        font-size: 34px !important;
+        line-height: 40px;
+    }
+
+    #SERVICES p {
+        padding: 0 22px !important;
+    }
+
+    .services-item {
+        margin-bottom: 52px;
+    }
+
+    #ABOUT .right_part img {
+        margin-top: 20px;
+    }
+
+    .select_box_item_contant h5 {
+        text-align: center;
+        line-height: 22px;
+    }
+
+    #select_work p {
+        text-align: center;
+    }
+
+    #testmonial h2 {
+        font-size: 34px !important;
+    }
+
+    #testmonial p {
+        padding: 0 12px !important;
+    }
+
+    #testmonial .testmonial_box .testmonial_box_p h6 {
+        width: 322px !important;
+    }
+
+    #Intarested .Intarested_wrapper h3 {
+        margin: 0 !important;
+        padding-top: 120px;
+        padding-bottom: 42px;
+        text-align: center;
+        font-size: 43px !important;
+        line-height: 62px;
+    }
+
+    .footer_left p {
+        padding-bottom: 20px !important;
+    }
+
+    .footer_nav ul {
+        display: flex;
+        gap: 20px !important;
+        padding-left: 3px !important;
+        margin-top: 32px;
+    }
+
+    .footer_p_para p {
+        padding-left: 4px !important;
+    }
+}
+
+
+@media(max-width: 992px) {
+    .navbar-toggler {
+        background: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: 0px;
+    }
+
+    .left_part {
+        text-align: center;
+    }
+
+    #banner .left_part h1 {
+        font-size: 44px;
+        line-height: 72px;
+    }
+
+    .banner_btn {
+        flex-direction: column;
+        margin-bottom: 15px;
+    }
+
+    .banner_btn button {
+        margin-bottom: 15px;
+    }
+
+    #banner .right_part img {
+        margin-top: 46px;
+    }
+
+    #counter .counter_items {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 20px;
+        text-align: center;
+    }
+
+    #counter .counter_items h2 {
+        font-size: 36px;
+    }
+
+    #counter .counter_items p {
+        font-size: 16px;
+    }
+
+    #counter {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    #SERVICES {
+        padding-top: 100px;
+    }
+
+    #SERVICES h2 {
+        font-size: 34px !important;
+        line-height: 40px;
+    }
+
+    #SERVICES p {
+        padding: 0 22px !important;
+    }
+
+    .services-item {
+        margin-bottom: 52px;
+    }
+
+    #ABOUT .right_part img {
+        margin-top: 20px;
+    }
+
+    .select_box_item_contant h5 {
+        text-align: center;
+        line-height: 22px;
+    }
+
+    #select_work p {
+        text-align: center;
+    }
+
+    #testmonial h2 {
+        font-size: 34px !important;
+    }
+
+    #testmonial p {
+        padding: 0 12px !important;
+    }
+
+    #testmonial .testmonial_box .testmonial_box_p h6 {
+        width: 322px !important;
+    }
+
+    #Intarested .Intarested_wrapper h3 {
+        margin: 0 !important;
+        padding-top: 120px;
+        padding-bottom: 42px;
+        text-align: center;
+        font-size: 43px !important;
+        line-height: 62px;
+    }
+
+    .footer_left p {
+        padding-bottom: 20px !important;
+    }
+
+    .footer_nav ul {
+        display: flex;
+        gap: 20px !important;
+        padding-left: 3px !important;
+        margin-top: 32px;
+    }
+
+    .footer_p_para p {
+        padding-left: 4px !important;
+    }
+}
+
+
+@media(max-width: 1024px) {
+    .navbar-toggler {
+        background: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: 0px;
+    }
+
+    .left_part {
+        text-align: center;
+    }
+
+    #banner .left_part h1 {
+        font-size: 44px;
+        line-height: 72px;
+    }
+
+    .banner_btn {
+        flex-direction: column;
+        margin-bottom: 15px;
+    }
+
+    .banner_btn button {
+        margin-bottom: 15px;
+    }
+
+    #banner .right_part img {
+        margin-top: 46px;
+    }
+
+    #counter .counter_items {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 20px;
+        text-align: center;
+    }
+
+    #counter .counter_items h2 {
+        font-size: 36px;
+    }
+
+    #counter .counter_items p {
+        font-size: 16px;
+    }
+
+    #counter {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    #SERVICES {
+        padding-top: 100px;
+    }
+
+    #SERVICES h2 {
+        font-size: 34px !important;
+        line-height: 40px;
+    }
+
+    #SERVICES p {
+        padding: 0 22px !important;
+    }
+
+    .services-item {
+        margin-bottom: 52px;
+    }
+
+    #ABOUT .right_part img {
+        margin-top: 20px;
+    }
+
+    .select_box_item_contant h5 {
+        text-align: center;
+        line-height: 22px;
+    }
+
+    #select_work p {
+        text-align: center;
+    }
+
+    #testmonial h2 {
+        font-size: 34px !important;
+    }
+
+    #testmonial p {
+        padding: 0 12px !important;
+    }
+
+    #testmonial .testmonial_box .testmonial_box_p h6 {
+        width: 322px !important;
+    }
+
+    #Intarested .Intarested_wrapper h3 {
+        margin: 0 !important;
+        padding-top: 120px;
+        padding-bottom: 42px;
+        text-align: center;
+        font-size: 43px !important;
+        line-height: 62px;
+    }
+
+    .footer_left p {
+        padding-bottom: 20px !important;
+    }
+
+    .footer_nav ul {
+        display: flex;
+        gap: 20px !important;
+        padding-left: 3px !important;
+        margin-top: 32px;
+    }
+
+    .footer_p_para p {
+        padding-left: 4px !important;
+    }
+}
+
+@media(max-width: 1200px) {
+    .navbar-toggler {
+        background: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: 0px;
+    }
+
+    .left_part {
+        text-align: center;
+    }
+
+    #banner .left_part h1 {
+        font-size: 44px;
+        line-height: 72px;
+    }
+
+    .banner_btn {
+        flex-direction: column;
+        margin-bottom: 15px;
+    }
+
+    .banner_btn button {
+        margin-bottom: 15px;
+    }
+
+    #banner .right_part img {
+        margin-top: 46px;
+    }
+
+    #counter .counter_items {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 20px;
+        text-align: center;
+    }
+
+    #counter .counter_items h2 {
+        font-size: 36px;
+    }
+
+    #counter .counter_items p {
+        font-size: 16px;
+    }
+
+    #counter {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    #SERVICES {
+        padding-top: 100px;
+    }
+
+    #SERVICES h2 {
+        font-size: 34px !important;
+        line-height: 40px;
+    }
+
+    #SERVICES p {
+        padding: 0 22px !important;
+    }
+
+    .services-item {
+        margin-bottom: 52px;
+    }
+
+    #ABOUT .right_part img {
+        margin-top: 20px;
+    }
+
+    .select_box_item_contant h5 {
+        text-align: center;
+        line-height: 22px;
+    }
+
+    #select_work p {
+        text-align: center;
+    }
+
+    #testmonial h2 {
+        font-size: 34px !important;
+    }
+
+    #testmonial p {
+        padding: 0 12px !important;
+    }
+
+    #testmonial .testmonial_box .testmonial_box_p h6 {
+        width: 322px !important;
+    }
+
+    #Intarested .Intarested_wrapper h3 {
+        margin: 0 !important;
+        padding-top: 120px;
+        padding-bottom: 42px;
+        text-align: center;
+        font-size: 43px !important;
+        line-height: 62px;
+    }
+
+    .footer_left p {
+        padding-bottom: 20px !important;
+    }
+
+    .footer_nav ul {
+        display: flex;
+        gap: 20px !important;
+        padding-left: 81px !important;
+        margin-top: 32px;
+    }
+
+    .footer_p_para p {
+        padding-left: 364px !important;
+        padding-top: 37px;
+        line-height: 20px;
+    }
+}
